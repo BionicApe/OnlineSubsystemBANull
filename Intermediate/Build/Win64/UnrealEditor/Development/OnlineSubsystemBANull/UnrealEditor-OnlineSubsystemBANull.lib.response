@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemBANull.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Dis\ThePrison\Intermediate\Build\Win64\ThePrisonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"A:\Dis\ThePrison\Plugins\OnlineSubsystemBANull\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemBANull\Module.OnlineSubsystemBANull.cpp.obj"
+"A:\Dis\ThePrison\Plugins\OnlineSubsystemBANull\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemBANull\Default.rc2.res"
+/OUT:"A:\Dis\ThePrison\Plugins\OnlineSubsystemBANull\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemBANull\UnrealEditor-OnlineSubsystemBANull.lib"
